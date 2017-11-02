@@ -9,3 +9,7 @@ selector {
   property: value;
 }
 */
+
+p {
+  font-size: 1em;
+}
